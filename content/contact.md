@@ -3,7 +3,7 @@ title: Contact Me
 type: page
 ---
 
-## Email
+- [Email](mailto:evanacox00@gmail.com)
 
-1. evanacox00 [at] gmail [dot] com
-2. ecox8 [at] g [dot] clemson [dot] edu
+- [LinkedIn](https://www.linkedin.com/in/evan-cox-70b4bb208/)
+
