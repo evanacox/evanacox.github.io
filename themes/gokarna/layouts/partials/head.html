@@ -37,13 +37,13 @@
     <!-- SEO canonicals: helps Google understand your site better when using marketing campaign tagging etc -->
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/normalize.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/main.css">
-    <link disabled id="dark-theme" rel="stylesheet" href="{{ .Site.BaseURL }}/css/dark.css">
+    <link rel="stylesheet" type="text/css" href="{{ relURL "/css/normalize.min.css" }}" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="{{ relURL "/css/main.css" }}">
+    <link disabled id="dark-theme" rel="stylesheet" href="{{ relURL "/css/dark.css" }}">
 
-    <script src="{{ .Site.BaseURL }}/js/svg-injector.min.js"></script>
-    <script src="{{ .Site.BaseURL }}/js/feather-icons.min.js"></script>
-    <script src="{{ .Site.BaseURL }}/js/main.js"></script>
+    <script src="{{ relURL "/js/svg-injector.min.js" }}"></script>
+    <script src="{{ relURL "/js/feather-icons.min.js" }}"></script>
+    <script src="{{ relURL "/js/main.js" }}"></script>
 
     <!-- Option for user to inject custom html -->
     {{ if .Site.Params.CustomHeadHTML }}
