@@ -19,11 +19,11 @@ the compiler kept working through refactors).
 
 ### Important pieces of this project:
 
-1. Created a specification for a new C-like language
+1. Designed a specification for a new C-like language
     - Considered the common issues experienced with C and its derivatives, designed the language to
       avoid these pitfalls.
 
-2. Created a compiler for the language in that specification
+2. Implemented a compiler for the language according to that specification
     - Designed necessary abstractions and architected the front-end of a compiler from the ground up
 
 ### Things learned from this project:

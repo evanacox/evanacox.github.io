@@ -7,9 +7,9 @@ enableRobotsTXT = true
 
 [params]
   footer = "Evan Cox"
-  description = "Passionate software developer and C.S. student at Clemson University."
+  description = "Passionate software developer and C.S. student at Clemson University (May 2025)."
   socialIcons = [
-    {name = "linkedin", url = "https://www.linkedin.com/in/evan-cox-70b4bb208/"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/evan-cox-70b4bb208"},
     {name = "github", url = "https://github.com/evanacox"},
     {name = "email", url = "mailto:evanacox00@gmail.com"}
   ]

@@ -15,7 +15,7 @@ A review site made to house a bunch of practice questions for Calculus.
 
 ### Important pieces of this project:
 
-1. Used existing tooling to create a math display and interactive quiz
+1. Utilized existing tooling to create a math display and interactive quiz
     - Adapted an existing animation library / LaTeX display library for use
       in this specific situation
 
